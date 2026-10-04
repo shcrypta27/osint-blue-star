@@ -1,4 +1,6 @@
-![blue-star logo](assets/logo.jpeg)
+logo > https://github.com/user-attachments/assets/f46e13f2-fcd7-4bfb-90f5-09f3f91fcfe6 
+
+
 
 # blue-star
 
@@ -8,7 +10,8 @@ full experience.
 
 Coded by [shcrypta27](https://github.com/shcrypta27).
 
-![blue-star screenshot](assets/screenshot.png)
+<img width="1696" height="935" alt="image" src="https://github.com/user-attachments/assets/95e3477b-c669-4659-9bc7-da50119359b3" />
+
 
 ## What's in it
 
